@@ -1,14 +1,14 @@
-Breach		:0
-Brimstone	:0
-Cypher		:0
-Jett		:0
-Omen		:0
+Breach		:264, 843
+Brimstone	:319, 878
+Cypher		:471, 883
+Jett		:637, 878
+Omen		:525, 837
 Phoenix		:0
 Raze		:0
 Reyna		:0
-Sage		:0
-Sova		:0
-Viper		:0
+Sage		:247, 951
+Sova		:320, 954
+Viper		:406, 959
 Astra		:0
 KAY/O		:0
 Killjoy		:0
